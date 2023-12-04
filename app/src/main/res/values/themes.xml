@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.StudyPractice" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Base.Theme.PostMachine" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:background">#152DD5</item>
+        <item name="android:statusBarColor">#D1D3DC</item>
     </style>
 
-    <style name="Theme.StudyPractice" parent="Base.Theme.StudyPractice" />
+    <style name="Theme.PostMachine" parent="Base.Theme.PostMachine" />
 </resources>
